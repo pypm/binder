@@ -1,4 +1,4 @@
-# quickstart
+# quickstart for syzygy.ca / Jupyter hub
 Using the ipypm GUI on the Canada-wide [syzygy.ca](https://intro.syzygy.ca/) jupyter hub network.
 
 ## Single click startup
