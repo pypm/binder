@@ -25,13 +25,13 @@ to log into the syzygy service by using your home university credentials or Goog
 * [University of Washington](https://uw.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpypm%2Fquickstart&urlpath=tree%2Fquickstart%2Fsyzygy%2Fipypm-quickstart.ipynb)
 * [University of Waterloo](https://uwaterloo.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpypm%2Fquickstart&urlpath=tree%2Fquickstart%2Fsyzygy%2Fipypm-quickstart.ipynb)
 * [York University](https://yorku.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpypm%2Fquickstart&urlpath=tree%2Fquickstart%2Fsyzygy%2Fipypm-quickstart.ipynb)
-* [Cybera (via Google Authentication)](https://cybera.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpypm%2Fquickstart&urlpath=tree%2Fquickstart%2Fsyzygy%2Fipypm-quickstart.ipynb) (via Google Authentication)
+* [Cybera](https://cybera.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpypm%2Fquickstart&urlpath=tree%2Fquickstart%2Fsyzygy%2Fipypm-quickstart.ipynb) (via Google Authentication)
 * [PIMS](https://pims.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpypm%2Fquickstart&urlpath=tree%2Fquickstart%2Fsyzygy%2Fipypm-quickstart.ipynb) (via Google Authentication)
 
 If the link fails to work for your site, or your jupyter hub is not listed:
-* download this file: [ipypm-quickstart.ipynb](https://github.com/pypm/quickstart/syzygy/ipypm-quickstart.ipynb)
-  * "right-click" on "Raw" to save the file on your computer ("Save link as...")
+* Click on this link to the quickstart notebook on github [github link](https://github.com/pypm/quickstart/syzygy/ipypm-quickstart.ipynb)
+  * "right-click" on the "Raw" button to save the file on your computer ("Save link as...")
 * login to your jupyter hub
 * click on Upload - select the file
-* open the notebook you just uploaded and follow the instructions in the notebook
+* open the notebook you just uploaded and follow the instructions
 
