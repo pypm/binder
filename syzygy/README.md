@@ -1,5 +1,7 @@
 # quickstart
-Links quick start on the Canada-wide [syzygy.ca](https://intro.syzygy.ca/) jupyter hub network.
+Using the ipypm GUI on the Canada-wide [syzygy.ca](https://intro.syzygy.ca/) jupyter hub network.
+
+## Single click startup
 
 If you are a student or staff member at any of the following Institutions, you can click on the link below to start the ipypm GUI. You will have
 to log into the syzygy service by using your home university credentials or Google credentials.
@@ -28,8 +30,10 @@ to log into the syzygy service by using your home university credentials or Goog
 * [Cybera](https://cybera.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpypm%2Fquickstart&urlpath=tree%2Fquickstart%2Fsyzygy%2Fipypm-quickstart.ipynb) (via Google Authentication)
 * [PIMS](https://pims.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpypm%2Fquickstart&urlpath=tree%2Fquickstart%2Fsyzygy%2Fipypm-quickstart.ipynb) (via Google Authentication)
 
+## Manual setup
+
 If the link fails to work for your site, or your jupyter hub is not listed:
-* Click on this link to the quickstart notebook on github [github link](https://github.com/pypm/quickstart/syzygy/ipypm-quickstart.ipynb)
+* Click on this link to the quickstart notebook: [github link](https://github.com/pypm/quickstart/syzygy/ipypm-quickstart.ipynb)
   * "right-click" on the "Raw" button to save the file on your computer ("Save link as...")
 * login to your jupyter hub
 * click on Upload - select the file
