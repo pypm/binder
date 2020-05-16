@@ -10,6 +10,7 @@ if it is left idle. If you click on the link again,
 you will be reconnected to the environment setup for you.
 
 Binder is a great way to quickly try out the ipypm GUI.
+It aims to provide up to 12 hours of session time per user session.
 
 For a more traditional working environment, in which
 notebooks and other files you create
